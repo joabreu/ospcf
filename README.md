@@ -1,5 +1,7 @@
 # Operating System PCF
 
+> x86 - 32 bits
+
 > Miguel Abreu
 > Copyright 2007-2012
 
