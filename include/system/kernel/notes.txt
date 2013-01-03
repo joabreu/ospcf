@@ -1,0 +1,9 @@
+/* This is an include file
+ * to define the realeases notes
+ * in PCF
+ */
+
+#define REALEASE_NOTES \
+"-> 32 Bit Kernel\n" \
+"-> i386 Platform\n"
+
